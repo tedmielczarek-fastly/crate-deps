@@ -1,0 +1,8 @@
+[package]
+name = "crate-deps"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.71"
+guppy = "0.15.2"
